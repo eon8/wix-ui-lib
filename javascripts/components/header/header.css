@@ -1,11 +1,14 @@
-header.box {
-	overflow:hidden;
-}
 header .logo {
 	float: left;
-	margin: 12px;
-	border-right: 1px solid #ccc;
-	padding-right: 20px;
+	margin: 14px 20px 14px 14px;
+	border-right: 1px solid #a9a9a9;
+	padding: 10px 24px 10px 0;
+}
+header .logo img {
+	vertical-align: bottom;
+}
+header p {
+	margin: 22px 0;
 }
 .login-panel, .premium-panel {
 	overflow:hidden;

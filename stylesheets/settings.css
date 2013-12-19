@@ -23,7 +23,7 @@
   display: inline-block;
   height: 77px;
   width: 64px;
-  background-image: url('../../images/layouts.png');
+  background-image: url('./images/layouts.png');
   background-position: top;
   background-repeat: no-repeat;
 }
